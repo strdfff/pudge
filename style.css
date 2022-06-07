@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color:rgb(189, 23, 189);
+    border-radius:15px ;
+}
+
+h1 {
+  color: blueviolet;
+text-align: center;
+
+}  
+
+footer p{
+background-color: darkmagenta;
+padding: 5px;
+
+}
+
+nav {
+background-color:fuchsia;
+border-radius: 15px;
+text-align: center;
+padding:12px ;
+border:3px solid rgb(117, 8, 117) ;
+}
+
+nav a{
+padding: 30px;
+
+
+}
+
+.pudge {
+background-color: blueviolet;
+border-radius: 10px;
+border:5px solid rgb(76, 0, 148);
+}
+
+.popo{
+border:3px solid darkorchid ;
+border-radius: 13px;
+
+}
+
+h2{
+color: deeppink;
+text-align: center;
+font-size: 24px;
+}
+
+.popi{
+border-radius: 10px;
+border: 2px solid deeppink;
+padding: 3px;
+}
+
+.pop{
+border-radius: 10px;
+border: 3px solid deeppink;
+padding: 4px;
+}
